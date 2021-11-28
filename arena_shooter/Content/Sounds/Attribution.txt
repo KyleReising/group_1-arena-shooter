@@ -1,0 +1,1 @@
+Sound that plays when trying to fire with no ammo comes from this video: https://youtu.be/KItxQJJEvGk
