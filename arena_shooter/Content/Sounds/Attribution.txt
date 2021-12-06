@@ -1,1 +1,5 @@
 Sound that plays when trying to fire with no ammo comes from this video: https://youtu.be/KItxQJJEvGk
+
+Game over sound comes from the film "Joshua and the Promised Land." Stumbled upon it, liked that specific sound.
+
+Restart sound comes from https://mixkit.co/free-sound-effects/insect/
